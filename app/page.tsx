@@ -31,7 +31,7 @@ export default function Home() {
           <MouseMorph />
         </div>
         <div className="w-full h-full top-0 left-0 z-50 absolute flex items-center justify-center">
-          <h2 className="text-8xl text-white font-playfair">
+          <h2 className="text-8xl text-white font-playfair pl-4 pr-4">
             creative design . creative code
           </h2>
         </div>
