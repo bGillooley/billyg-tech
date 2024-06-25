@@ -30,6 +30,11 @@ export default function Home() {
           <div className="g5"></div>
           <MouseMorph />
         </div>
+        <div className="w-full h-full top-0 left-0 z-50 absolute flex items-center justify-center">
+          <h2 className="text-8xl text-white font-playfair">
+            creative design . creative code
+          </h2>
+        </div>
       </div>
     </>
   );
